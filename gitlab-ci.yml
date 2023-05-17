@@ -8,7 +8,6 @@ stages:
   - Test acceptation
 
 build:
-  # Official docker image.
   stage: Build image
   script:
     - docker build -t alpinehelloworld .
@@ -19,7 +18,6 @@ build:
 
 
 test acceptation:
-  # Official docker image.
   stage: Test acceptation
   script:
     - docker load < alpinehelloworld.tar
