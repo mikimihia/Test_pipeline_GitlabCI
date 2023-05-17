@@ -16,7 +16,6 @@ build:
     paths:
       - alpinehelloworld.tar
 
-
 test acceptation:
   stage: Test acceptation
   script:
