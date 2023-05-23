@@ -1,5 +1,5 @@
 # Test_pipeline_GitlabCI 
-le but est de faire le test d'acceptation après le stage Build avec GitlabCI 
+le but est de faire le test d'acceptation après le stage Build avec Gitlab CI 
 ![Capture d’écran (20)](https://github.com/mikimihia/Test_pipeline_GitlabCI/assets/44511981/3dbc5b1b-17e4-4fae-a1c4-3d24f31b6008)
 
 Sauvegarde après exécution du pipeline Gitlab CI 
