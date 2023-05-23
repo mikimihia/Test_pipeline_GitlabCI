@@ -1,7 +1,7 @@
 # Test_pipeline_GitlabCI 
 le but est de faire le test d'acceptation après le stage Build avec GitlabCI 
 ![Capture d’écran (20)](https://github.com/mikimihia/Test_pipeline_GitlabCI/assets/44511981/3dbc5b1b-17e4-4fae-a1c4-3d24f31b6008)
-
+visualisayion exécution du pipeline 
 ![Capture d’écran (29)](https://github.com/mikimihia/Test_pipeline_GitlabCI/assets/44511981/c3872135-8dcf-4eb7-ae2d-bc8476a2584b)
 
 ![Capture d’écran (28)](https://github.com/mikimihia/Test_pipeline_GitlabCI/assets/44511981/404da752-1d94-459c-ac01-9cc6913f8762)
